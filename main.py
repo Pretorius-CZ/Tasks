@@ -10,12 +10,10 @@ window.title ("Úkoláček")
 window.geometry("600x510")
 window.resizable(True, True)
 
-
 # definice - fonty a barvy
 main_font = ("Calibri", 12)
 main_color = "#dd7f00"
 button_color = "#ffbe66"
-
 
 #Funkce
 def add_item():
